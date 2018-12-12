@@ -1,3 +1,0 @@
-#this probably isnt where your phpunit is.. amend accordingly
-
-phpunit test_parse_ParserTest
